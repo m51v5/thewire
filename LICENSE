@@ -1,0 +1,17 @@
+The Wire
+© 2026–present Mustafa Jassem Hassan (m51v5)
+
+The Wire is free. Play it, share it, pass it on: the release builds in this
+repository may be copied and redistributed unchanged, at no charge.
+
+The game, its code, story and characters belong to the author. The source
+code is not published. The builds may not be modified, repackaged, sold, or
+presented as your own.
+
+The art and sound are free to use.
+
+The builds are provided as is, without warranty of any kind.
+
+Third-party components ship under their own licences: Ebitengine (Apache
+License 2.0), the Go fonts, golang.org/x/image and golang.org/x/text (BSD
+3-Clause), Vazirmatn (SIL Open Font License 1.1).
